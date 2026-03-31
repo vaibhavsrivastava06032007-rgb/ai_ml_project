@@ -1,6 +1,6 @@
-# 🎬 Movie Recommendation System
+#  Movie Recommendation System
 
-## ❓ Problem Statement
+##  Problem Statement
 
 Users often struggle to decide what to watch, especially when they are looking for movies in a specific genre like romance, comedy, or thriller.
 
@@ -8,7 +8,7 @@ Users often struggle to decide what to watch, especially when they are looking f
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Build a simple movie recommendation system  
 - Recommend movies based on user-input genre  
@@ -18,7 +18,7 @@ Users often struggle to decide what to watch, especially when they are looking f
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 movie-recommendation/
 │── main.py # Runs the program (user interaction)
 │── data_loader.py # Loads and cleans dataset
@@ -31,7 +31,7 @@ movie-recommendation/
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset (`movies.csv`) contains two columns:
 
@@ -48,7 +48,7 @@ Frozen,Animation Family
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Load dataset using pandas  
 2. Convert genres into lowercase  
@@ -62,7 +62,7 @@ Frozen,Animation Family
 
 ---
 
-## 🧠 Approach
+##  Approach
 
 - Used **pandas** for reading CSV data  
 - Cleaned and transformed genre data  
@@ -71,7 +71,7 @@ Frozen,Animation Family
 
 ---
 
-## 🔑 Key Concepts Used
+##  Key Concepts Used
 
 - Python basics  
 - Functions and modular programming  
@@ -83,8 +83,8 @@ Frozen,Animation Family
 
 ---
 
-## 💡 Example Usage
-🎬 Movie Recommender System
+##  Example Usage
+ Movie Recommender System
 
 Available genres:
 
@@ -101,12 +101,12 @@ Titanic
 The Notebook
 La La Land
 
-👉 Suggested for you: Titanic
+ Suggested for you: Titanic
 
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 Follow these steps to run the Movie Recommendation System:
 
@@ -129,7 +129,7 @@ Follow these steps to run the Movie Recommendation System:
 
 ---
 
-### ✅ Example
+###  Example
 
 Movie Recommender System
 
@@ -149,33 +149,25 @@ Suggested for you: Titanic
 
 
 
-## ⚠️ Limitations
+##  Limitations
 
-- ❌ No machine learning used  
-- 👤 No personalization (same results for all users)  
-- 📉 Limited dataset compared to real-world systems  
-- 🎭 Only genre-based recommendation  
-- 💻 Command-line interface only (no GUI)
+-  No machine learning used  
+-  No personalization (same results for all users)  
+-  Limited dataset compared to real-world systems  
+-  Only genre-based recommendation  
+-  Command-line interface only (no GUI)
 
-## 🚀 Future Improvements
 
-- 🔍 Recommend based on movie name (content-based filtering)  
-- 🤖 Add machine learning algorithms  
-- 🌐 Build web application (Flask / Streamlit)  
-- ⭐ Add user ratings and reviews  
-- 📈 Expand dataset for better accuracy  
-- 🧠 Add smart matching (e.g., "romantic" → "romance")
+  ##  What I Learned
 
-  ## 📚 What I Learned
+-  Structuring Python projects  
+-  Working with datasets using pandas  
+-  Cleaning and transforming data  
+-  Handling multi-genre data  
+-  Building a basic recommendation system  
+-  Writing modular and maintainable code
 
-- 🏗️ Structuring Python projects  
-- 📊 Working with datasets using pandas  
-- 🧹 Cleaning and transforming data  
-- 🎭 Handling multi-genre data  
-- 🤖 Building a basic recommendation system  
-- ✍️ Writing modular and maintainable code
-
-  ## 🧩 Challenges Faced
+  ##  Challenges Faced
 
 ### 1. Genre Matching Issue
 
@@ -205,23 +197,14 @@ Expanded dataset with more genres and combinations.
 
 ---
 
-## 🙌 Acknowledgment
+##  Acknowledgment
 
 This project was developed as a beginner-level implementation to understand the fundamentals of recommendation systems.
 
 ---
 
-### 📌 Optional Enhancements
 
-If you'd like to improve this project further, you can:
-
-- 🏷️ Add badges (GitHub stats, Python version, etc.)  
-- 💼 Make it more professional for your portfolio  
-- 🖼️ Convert it into a GitHub-ready README with screenshots  
-
----
-
-## 👤 Author Information
+##  Author Information
 
 - **Name:** Vaibhav Srivastava  
 - **Registration Number:** 25BCE10969  
