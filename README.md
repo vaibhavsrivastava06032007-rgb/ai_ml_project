@@ -106,7 +106,46 @@ La La Land
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run the Project
+
+Follow these steps to run the Movie Recommendation System:
+
+1. Download or clone this repository to your computer.
+
+2. Make sure Python is installed on your system.
+
+3. Install the required dependency:
+   - pandas
+
+4. Open the project folder in your code editor or IDE.
+
+5. Run the `main.py` file.
+
+6. Follow the on-screen instructions:
+   - View available genres  
+   - Enter a genre  
+   - Get movie recommendations  
+   - Receive a random suggestion  
+
+---
+
+### ✅ Example
+
+Movie Recommender System
+
+Available genres:
+action  
+comedy  
+romance  
+
+Enter a genre: romance  
+
+Movies you can watch:
+Titanic  
+The Notebook  
+La La Land  
+
+Suggested for you: Titanic
 
 
 
@@ -179,3 +218,12 @@ If you'd like to improve this project further, you can:
 - 🏷️ Add badges (GitHub stats, Python version, etc.)  
 - 💼 Make it more professional for your portfolio  
 - 🖼️ Convert it into a GitHub-ready README with screenshots  
+
+---
+
+## 👤 Author Information
+
+- **Name:** Vaibhav Srivastava  
+- **Registration Number:** 25BCE10969  
+- **University:** VIT Bhopal  
+- **Email:** vaibhav.25bce10969@vitbhopal.ac.in  
